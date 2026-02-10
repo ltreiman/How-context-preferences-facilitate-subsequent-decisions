@@ -1,6 +1,6 @@
 # Summary
 
-This repository contains resources for my paper, *Choosing the right frame: How context preferences facilitate subsequent decision*, which will be published in Scientific Reports. It includes:
+This repository contains resources for my paper, *Choosing the right frame: How context preferences facilitate subsequent decision*, which is published in Scientific Reports. It includes:
 
 - **Data**: Anonymized data used in the paper.
 - **Analysis**: R scripts for all experiments, including a helper function.
